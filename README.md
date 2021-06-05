@@ -1,5 +1,5 @@
 # Python-temp-monitor
-A simple Python CPU temperature monitor.
+A simple, terminal based Python CPU temperature monitor.
 
 ![image](https://user-images.githubusercontent.com/72494265/120891731-bfdeb580-c627-11eb-9a77-fce3f8905c7c.png)
 
