@@ -7,3 +7,4 @@ A simple Python CPU temperature monitor.
 - Linux executables are available under https://github.com/xXTgamerXx/Python-temp-monitor/releases.
 - The color of the text varies accordingly from Green, Yellow, Red.
 - Update interval is 1 second, can be changed by editing the source code.
+- This unfortunately wont work on windows as it uses psutil sensors - https://psutil.readthedocs.io/en/latest/#sensors
