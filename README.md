@@ -8,3 +8,4 @@ A simple, terminal based Python CPU temperature monitor.
 - The color of the text varies accordingly from Green, Yellow, Red.
 - Update interval is 1 second, can be changed by editing the source code.
 - This unfortunately wont work on windows as it uses psutil sensors - https://psutil.readthedocs.io/en/latest/#sensors
+- Thanks to https://stackoverflow.com/questions/49550355/how-to-stop-a-program-when-a-key-is-pressed-in-python for the stopping command.
