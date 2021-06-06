@@ -1,7 +1,7 @@
 # Python-temp-monitor
 A simple, terminal based Python CPU temperature monitor.
 
-![image](https://user-images.githubusercontent.com/72494265/120891731-bfdeb580-c627-11eb-9a77-fce3f8905c7c.png)
+![image](https://user-images.githubusercontent.com/72494265/120916951-3633f400-c6ca-11eb-95bf-4a3cd97a4bce.png)
 
 - This is my first project in python.
 - Linux executables are available under https://github.com/xXTgamerXx/Python-temp-monitor/releases.
